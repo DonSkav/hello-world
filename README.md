@@ -1,2 +1,4 @@
 # hello-world
-give all you got today
+Give all you got today
+Give it all you got today
+change quote
